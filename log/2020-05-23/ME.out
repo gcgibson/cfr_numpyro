@@ -1,0 +1,15 @@
+                     date locationtest  value abbreviation location  population
+location_name                                                                  
+Maine          2020-01-24           23      0           ME       23   1344212.0
+Maine          2020-01-25           23      0           ME       23   1344212.0
+Maine          2020-01-26           23      0           ME       23   1344212.0
+Maine          2020-01-27           23      0           ME       23   1344212.0
+Maine          2020-01-28           23      0           ME       23   1344212.0
+...                   ...          ...    ...          ...      ...         ...
+Maine          2021-01-07           23    535           ME       23   1344212.0
+Maine          2021-01-08           23    782           ME       23   1344212.0
+Maine          2021-01-09           23    612           ME       23   1344212.0
+Maine          2021-01-10           23    279           ME       23   1344212.0
+Maine          2021-01-11           23    313           ME       23   1344212.0
+
+[354 rows x 6 columns]

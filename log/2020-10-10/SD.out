@@ -1,0 +1,15 @@
+                     date locationtest  value abbreviation location  population
+location_name                                                                  
+South Dakota   2020-01-24           46      0           SD       46    884659.0
+South Dakota   2020-01-25           46      0           SD       46    884659.0
+South Dakota   2020-01-26           46      0           SD       46    884659.0
+South Dakota   2020-01-27           46      0           SD       46    884659.0
+South Dakota   2020-01-28           46      0           SD       46    884659.0
+...                   ...          ...    ...          ...      ...         ...
+South Dakota   2021-01-07           46    448           SD       46    884659.0
+South Dakota   2021-01-08           46    448           SD       46    884659.0
+South Dakota   2021-01-09           46    321           SD       46    884659.0
+South Dakota   2021-01-10           46    417           SD       46    884659.0
+South Dakota   2021-01-11           46    181           SD       46    884659.0
+
+[354 rows x 6 columns]

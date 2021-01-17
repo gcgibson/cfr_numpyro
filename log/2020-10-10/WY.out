@@ -1,0 +1,15 @@
+                     date locationtest  value abbreviation location  population
+location_name                                                                  
+Wyoming        2020-01-24           56      0           WY       56    578759.0
+Wyoming        2020-01-25           56      0           WY       56    578759.0
+Wyoming        2020-01-26           56      0           WY       56    578759.0
+Wyoming        2020-01-27           56      0           WY       56    578759.0
+Wyoming        2020-01-28           56      0           WY       56    578759.0
+...                   ...          ...    ...          ...      ...         ...
+Wyoming        2021-01-07           56    278           WY       56    578759.0
+Wyoming        2021-01-08           56    479           WY       56    578759.0
+Wyoming        2021-01-09           56     72           WY       56    578759.0
+Wyoming        2021-01-10           56    113           WY       56    578759.0
+Wyoming        2021-01-11           56    563           WY       56    578759.0
+
+[354 rows x 6 columns]

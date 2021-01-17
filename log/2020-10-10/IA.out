@@ -1,0 +1,15 @@
+                     date locationtest  value abbreviation location  population
+location_name                                                                  
+Iowa           2020-01-24           19      0           IA       19   3155070.0
+Iowa           2020-01-25           19      0           IA       19   3155070.0
+Iowa           2020-01-26           19      0           IA       19   3155070.0
+Iowa           2020-01-27           19      0           IA       19   3155070.0
+Iowa           2020-01-28           19      0           IA       19   3155070.0
+...                   ...          ...    ...          ...      ...         ...
+Iowa           2021-01-07           19   2413           IA       19   3155070.0
+Iowa           2021-01-08           19   1573           IA       19   3155070.0
+Iowa           2021-01-09           19   1409           IA       19   3155070.0
+Iowa           2021-01-10           19    511           IA       19   3155070.0
+Iowa           2021-01-11           19   1092           IA       19   3155070.0
+
+[354 rows x 6 columns]

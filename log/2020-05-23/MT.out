@@ -1,0 +1,15 @@
+                     date locationtest  value abbreviation location  population
+location_name                                                                  
+Montana        2020-01-24           30      0           MT       30   1068778.0
+Montana        2020-01-25           30      0           MT       30   1068778.0
+Montana        2020-01-26           30      0           MT       30   1068778.0
+Montana        2020-01-27           30      0           MT       30   1068778.0
+Montana        2020-01-28           30      0           MT       30   1068778.0
+...                   ...          ...    ...          ...      ...         ...
+Montana        2021-01-07           30    690           MT       30   1068778.0
+Montana        2021-01-08           30    818           MT       30   1068778.0
+Montana        2021-01-09           30    534           MT       30   1068778.0
+Montana        2021-01-10           30    222           MT       30   1068778.0
+Montana        2021-01-11           30    329           MT       30   1068778.0
+
+[354 rows x 6 columns]

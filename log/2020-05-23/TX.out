@@ -1,0 +1,15 @@
+                     date locationtest  value abbreviation location  population
+location_name                                                                  
+Texas          2020-01-24           48      0           TX       48  28995881.0
+Texas          2020-01-25           48      0           TX       48  28995881.0
+Texas          2020-01-26           48      0           TX       48  28995881.0
+Texas          2020-01-27           48      0           TX       48  28995881.0
+Texas          2020-01-28           48      0           TX       48  28995881.0
+...                   ...          ...    ...          ...      ...         ...
+Texas          2021-01-07           48  25292           TX       48  28995881.0
+Texas          2021-01-08           48  22463           TX       48  28995881.0
+Texas          2021-01-09           48  19361           TX       48  28995881.0
+Texas          2021-01-10           48  16274           TX       48  28995881.0
+Texas          2021-01-11           48  22015           TX       48  28995881.0
+
+[354 rows x 6 columns]

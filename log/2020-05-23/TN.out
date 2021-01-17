@@ -1,0 +1,15 @@
+                     date locationtest  value abbreviation location  population
+location_name                                                                  
+Tennessee      2020-01-24           47      0           TN       47   6829174.0
+Tennessee      2020-01-25           47      0           TN       47   6829174.0
+Tennessee      2020-01-26           47      0           TN       47   6829174.0
+Tennessee      2020-01-27           47      0           TN       47   6829174.0
+Tennessee      2020-01-28           47      0           TN       47   6829174.0
+...                   ...          ...    ...          ...      ...         ...
+Tennessee      2021-01-07           47   8857           TN       47   6829174.0
+Tennessee      2021-01-08           47   6369           TN       47   6829174.0
+Tennessee      2021-01-09           47   5844           TN       47   6829174.0
+Tennessee      2021-01-10           47   7419           TN       47   6829174.0
+Tennessee      2021-01-11           47   3527           TN       47   6829174.0
+
+[354 rows x 6 columns]

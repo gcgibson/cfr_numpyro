@@ -1,0 +1,15 @@
+                     date locationtest  value abbreviation location  population
+location_name                                                                  
+Florida        2020-01-24           12      0           FL       12  21477737.0
+Florida        2020-01-25           12      0           FL       12  21477737.0
+Florida        2020-01-26           12      0           FL       12  21477737.0
+Florida        2020-01-27           12      0           FL       12  21477737.0
+Florida        2020-01-28           12      0           FL       12  21477737.0
+...                   ...          ...    ...          ...      ...         ...
+Florida        2021-01-07           12  19816           FL       12  21477737.0
+Florida        2021-01-08           12  19530           FL       12  21477737.0
+Florida        2021-01-09           12  15445           FL       12  21477737.0
+Florida        2021-01-10           12  12313           FL       12  21477737.0
+Florida        2021-01-11           12  11576           FL       12  21477737.0
+
+[354 rows x 6 columns]

@@ -1,0 +1,15 @@
+                      date locationtest  ...  location population
+location_name                            ...                     
+Virgin Islands  2020-01-24           78  ...        78   107268.0
+Virgin Islands  2020-01-25           78  ...        78   107268.0
+Virgin Islands  2020-01-26           78  ...        78   107268.0
+Virgin Islands  2020-01-27           78  ...        78   107268.0
+Virgin Islands  2020-01-28           78  ...        78   107268.0
+...                    ...          ...  ...       ...        ...
+Virgin Islands  2021-01-07           78  ...        78   107268.0
+Virgin Islands  2021-01-08           78  ...        78   107268.0
+Virgin Islands  2021-01-09           78  ...        78   107268.0
+Virgin Islands  2021-01-10           78  ...        78   107268.0
+Virgin Islands  2021-01-11           78  ...        78   107268.0
+
+[354 rows x 6 columns]

@@ -1,0 +1,15 @@
+                      date locationtest  ...  location population
+location_name                            ...                     
+South Carolina  2020-01-24           45  ...        45  5148714.0
+South Carolina  2020-01-25           45  ...        45  5148714.0
+South Carolina  2020-01-26           45  ...        45  5148714.0
+South Carolina  2020-01-27           45  ...        45  5148714.0
+South Carolina  2020-01-28           45  ...        45  5148714.0
+...                    ...          ...  ...       ...        ...
+South Carolina  2021-01-07           45  ...        45  5148714.0
+South Carolina  2021-01-08           45  ...        45  5148714.0
+South Carolina  2021-01-09           45  ...        45  5148714.0
+South Carolina  2021-01-10           45  ...        45  5148714.0
+South Carolina  2021-01-11           45  ...        45  5148714.0
+
+[354 rows x 6 columns]

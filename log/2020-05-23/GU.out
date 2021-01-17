@@ -1,0 +1,15 @@
+                     date locationtest  value abbreviation location  population
+location_name                                                                  
+Guam           2020-01-24           66      0           GU       66    164229.0
+Guam           2020-01-25           66      0           GU       66    164229.0
+Guam           2020-01-26           66      0           GU       66    164229.0
+Guam           2020-01-27           66      0           GU       66    164229.0
+Guam           2020-01-28           66      0           GU       66    164229.0
+...                   ...          ...    ...          ...      ...         ...
+Guam           2021-01-07           66      8           GU       66    164229.0
+Guam           2021-01-08           66     13           GU       66    164229.0
+Guam           2021-01-09           66      0           GU       66    164229.0
+Guam           2021-01-10           66      0           GU       66    164229.0
+Guam           2021-01-11           66     24           GU       66    164229.0
+
+[354 rows x 6 columns]

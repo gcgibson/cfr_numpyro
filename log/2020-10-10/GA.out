@@ -1,0 +1,15 @@
+                     date locationtest  value abbreviation location  population
+location_name                                                                  
+Georgia        2020-01-24           13      0           GA       13  10617423.0
+Georgia        2020-01-25           13      0           GA       13  10617423.0
+Georgia        2020-01-26           13      0           GA       13  10617423.0
+Georgia        2020-01-27           13      0           GA       13  10617423.0
+Georgia        2020-01-28           13      0           GA       13  10617423.0
+...                   ...          ...    ...          ...      ...         ...
+Georgia        2021-01-07           13   9790           GA       13  10617423.0
+Georgia        2021-01-08           13  13296           GA       13  10617423.0
+Georgia        2021-01-09           13  11926           GA       13  10617423.0
+Georgia        2021-01-10           13   8193           GA       13  10617423.0
+Georgia        2021-01-11           13   7454           GA       13  10617423.0
+
+[354 rows x 6 columns]

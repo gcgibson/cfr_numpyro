@@ -1,0 +1,15 @@
+                     date locationtest  value abbreviation location  population
+location_name                                                                  
+New York       2020-01-24           36      0           NY       36  19453561.0
+New York       2020-01-25           36      0           NY       36  19453561.0
+New York       2020-01-26           36      0           NY       36  19453561.0
+New York       2020-01-27           36      0           NY       36  19453561.0
+New York       2020-01-28           36      0           NY       36  19453561.0
+...                   ...          ...    ...          ...      ...         ...
+New York       2021-01-07           36  17588           NY       36  19453561.0
+New York       2021-01-08           36  19560           NY       36  19453561.0
+New York       2021-01-09           36  17839           NY       36  19453561.0
+New York       2021-01-10           36  16308           NY       36  19453561.0
+New York       2021-01-11           36  14179           NY       36  19453561.0
+
+[354 rows x 6 columns]

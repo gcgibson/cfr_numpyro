@@ -1,0 +1,15 @@
+                     date locationtest  value abbreviation location  population
+location_name                                                                  
+Arizona        2020-01-24           04      0           AZ       04   7278717.0
+Arizona        2020-01-25           04      0           AZ       04   7278717.0
+Arizona        2020-01-26           04      1           AZ       04   7278717.0
+Arizona        2020-01-27           04      0           AZ       04   7278717.0
+Arizona        2020-01-28           04      0           AZ       04   7278717.0
+...                   ...          ...    ...          ...      ...         ...
+Arizona        2021-01-07           04   9913           AZ       04   7278717.0
+Arizona        2021-01-08           04  11658           AZ       04   7278717.0
+Arizona        2021-01-09           04  11094           AZ       04   7278717.0
+Arizona        2021-01-10           04  11201           AZ       04   7278717.0
+Arizona        2021-01-11           04   8995           AZ       04   7278717.0
+
+[354 rows x 6 columns]

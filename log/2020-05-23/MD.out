@@ -1,0 +1,15 @@
+                     date locationtest  value abbreviation location  population
+location_name                                                                  
+Maryland       2020-01-24           24      0           MD       24   6045680.0
+Maryland       2020-01-25           24      0           MD       24   6045680.0
+Maryland       2020-01-26           24      0           MD       24   6045680.0
+Maryland       2020-01-27           24      0           MD       24   6045680.0
+Maryland       2020-01-28           24      0           MD       24   6045680.0
+...                   ...          ...    ...          ...      ...         ...
+Maryland       2021-01-07           24   2970           MD       24   6045680.0
+Maryland       2021-01-08           24   3732           MD       24   6045680.0
+Maryland       2021-01-09           24   3758           MD       24   6045680.0
+Maryland       2021-01-10           24   3310           MD       24   6045680.0
+Maryland       2021-01-11           24   3012           MD       24   6045680.0
+
+[354 rows x 6 columns]

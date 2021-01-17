@@ -1,0 +1,15 @@
+                     date locationtest  value abbreviation location  population
+location_name                                                                  
+Alaska         2020-01-24           02      0           AK       02    731545.0
+Alaska         2020-01-25           02      0           AK       02    731545.0
+Alaska         2020-01-26           02      0           AK       02    731545.0
+Alaska         2020-01-27           02      0           AK       02    731545.0
+Alaska         2020-01-28           02      0           AK       02    731545.0
+...                   ...          ...    ...          ...      ...         ...
+Alaska         2021-01-07           02    329           AK       02    731545.0
+Alaska         2021-01-08           02    411           AK       02    731545.0
+Alaska         2021-01-09           02    319           AK       02    731545.0
+Alaska         2021-01-10           02    260           AK       02    731545.0
+Alaska         2021-01-11           02    176           AK       02    731545.0
+
+[354 rows x 6 columns]

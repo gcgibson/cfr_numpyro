@@ -1,0 +1,15 @@
+                     date locationtest  value abbreviation location  population
+location_name                                                                  
+Nebraska       2020-01-24           31      0           NE       31   1934408.0
+Nebraska       2020-01-25           31      0           NE       31   1934408.0
+Nebraska       2020-01-26           31      0           NE       31   1934408.0
+Nebraska       2020-01-27           31      0           NE       31   1934408.0
+Nebraska       2020-01-28           31      0           NE       31   1934408.0
+...                   ...          ...    ...          ...      ...         ...
+Nebraska       2021-01-07           31   1122           NE       31   1934408.0
+Nebraska       2021-01-08           31   1023           NE       31   1934408.0
+Nebraska       2021-01-09           31   1006           NE       31   1934408.0
+Nebraska       2021-01-10           31    406           NE       31   1934408.0
+Nebraska       2021-01-11           31    644           NE       31   1934408.0
+
+[354 rows x 6 columns]

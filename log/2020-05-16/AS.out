@@ -1,0 +1,15 @@
+                      date locationtest  ...  location population
+location_name                            ...                     
+American Samoa  2020-01-24           60  ...        60    55641.0
+American Samoa  2020-01-25           60  ...        60    55641.0
+American Samoa  2020-01-26           60  ...        60    55641.0
+American Samoa  2020-01-27           60  ...        60    55641.0
+American Samoa  2020-01-28           60  ...        60    55641.0
+...                    ...          ...  ...       ...        ...
+American Samoa  2021-01-07           60  ...        60    55641.0
+American Samoa  2021-01-08           60  ...        60    55641.0
+American Samoa  2021-01-09           60  ...        60    55641.0
+American Samoa  2021-01-10           60  ...        60    55641.0
+American Samoa  2021-01-11           60  ...        60    55641.0
+
+[354 rows x 6 columns]

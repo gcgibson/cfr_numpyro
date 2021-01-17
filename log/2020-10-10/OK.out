@@ -1,0 +1,15 @@
+                     date locationtest  value abbreviation location  population
+location_name                                                                  
+Oklahoma       2020-01-24           40      0           OK       40   3956971.0
+Oklahoma       2020-01-25           40      0           OK       40   3956971.0
+Oklahoma       2020-01-26           40      0           OK       40   3956971.0
+Oklahoma       2020-01-27           40      0           OK       40   3956971.0
+Oklahoma       2020-01-28           40      0           OK       40   3956971.0
+...                   ...          ...    ...          ...      ...         ...
+Oklahoma       2021-01-07           40   3781           OK       40   3956971.0
+Oklahoma       2021-01-08           40   5232           OK       40   3956971.0
+Oklahoma       2021-01-09           40   4289           OK       40   3956971.0
+Oklahoma       2021-01-10           40   6487           OK       40   3956971.0
+Oklahoma       2021-01-11           40   3885           OK       40   3956971.0
+
+[354 rows x 6 columns]

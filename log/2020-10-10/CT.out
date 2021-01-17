@@ -1,0 +1,15 @@
+                     date locationtest  value abbreviation location  population
+location_name                                                                  
+Connecticut    2020-01-24           09      0           CT       09   3565287.0
+Connecticut    2020-01-25           09      0           CT       09   3565287.0
+Connecticut    2020-01-26           09      0           CT       09   3565287.0
+Connecticut    2020-01-27           09      0           CT       09   3565287.0
+Connecticut    2020-01-28           09      0           CT       09   3565287.0
+...                   ...          ...    ...          ...      ...         ...
+Connecticut    2021-01-07           09   3304           CT       09   3565287.0
+Connecticut    2021-01-08           09   3236           CT       09   3565287.0
+Connecticut    2021-01-09           09      0           CT       09   3565287.0
+Connecticut    2021-01-10           09      0           CT       09   3565287.0
+Connecticut    2021-01-11           09   7364           CT       09   3565287.0
+
+[354 rows x 6 columns]

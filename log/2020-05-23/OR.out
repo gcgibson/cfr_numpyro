@@ -1,0 +1,15 @@
+                     date locationtest  value abbreviation location  population
+location_name                                                                  
+Oregon         2020-01-24           41      0           OR       41   4217737.0
+Oregon         2020-01-25           41      0           OR       41   4217737.0
+Oregon         2020-01-26           41      0           OR       41   4217737.0
+Oregon         2020-01-27           41      0           OR       41   4217737.0
+Oregon         2020-01-28           41      0           OR       41   4217737.0
+...                   ...          ...    ...          ...      ...         ...
+Oregon         2021-01-07           41    862           OR       41   4217737.0
+Oregon         2021-01-08           41   1762           OR       41   4217737.0
+Oregon         2021-01-09           41   1629           OR       41   4217737.0
+Oregon         2021-01-10           41   1207           OR       41   4217737.0
+Oregon         2021-01-11           41    924           OR       41   4217737.0
+
+[354 rows x 6 columns]

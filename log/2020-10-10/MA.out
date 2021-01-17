@@ -1,0 +1,15 @@
+                     date locationtest  value abbreviation location  population
+location_name                                                                  
+Massachusetts  2020-01-24           25      0           MA       25   6892503.0
+Massachusetts  2020-01-25           25      0           MA       25   6892503.0
+Massachusetts  2020-01-26           25      0           MA       25   6892503.0
+Massachusetts  2020-01-27           25      0           MA       25   6892503.0
+Massachusetts  2020-01-28           25      0           MA       25   6892503.0
+...                   ...          ...    ...          ...      ...         ...
+Massachusetts  2021-01-07           25   7548           MA       25   6892503.0
+Massachusetts  2021-01-08           25   8120           MA       25   6892503.0
+Massachusetts  2021-01-09           25   7414           MA       25   6892503.0
+Massachusetts  2021-01-10           25   5656           MA       25   6892503.0
+Massachusetts  2021-01-11           25     12           MA       25   6892503.0
+
+[354 rows x 6 columns]

@@ -1,0 +1,15 @@
+                     date locationtest  value abbreviation location  population
+location_name                                                                  
+Wisconsin      2020-01-24           55      0           WI       55   5822434.0
+Wisconsin      2020-01-25           55      0           WI       55   5822434.0
+Wisconsin      2020-01-26           55      0           WI       55   5822434.0
+Wisconsin      2020-01-27           55      0           WI       55   5822434.0
+Wisconsin      2020-01-28           55      0           WI       55   5822434.0
+...                   ...          ...    ...          ...      ...         ...
+Wisconsin      2021-01-07           55   4509           WI       55   5822434.0
+Wisconsin      2021-01-08           55   4110           WI       55   5822434.0
+Wisconsin      2021-01-09           55   3516           WI       55   5822434.0
+Wisconsin      2021-01-10           55   2126           WI       55   5822434.0
+Wisconsin      2021-01-11           55   1682           WI       55   5822434.0
+
+[354 rows x 6 columns]

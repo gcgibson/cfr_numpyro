@@ -1,0 +1,15 @@
+                     date locationtest  value abbreviation location  population
+location_name                                                                  
+Kentucky       2020-01-24           21      0           KY       21   4467673.0
+Kentucky       2020-01-25           21      0           KY       21   4467673.0
+Kentucky       2020-01-26           21      0           KY       21   4467673.0
+Kentucky       2020-01-27           21      0           KY       21   4467673.0
+Kentucky       2020-01-28           21      0           KY       21   4467673.0
+...                   ...          ...    ...          ...      ...         ...
+Kentucky       2021-01-07           21   4889           KY       21   4467673.0
+Kentucky       2021-01-08           21   4737           KY       21   4467673.0
+Kentucky       2021-01-09           21   4231           KY       21   4467673.0
+Kentucky       2021-01-10           21   3227           KY       21   4467673.0
+Kentucky       2021-01-11           21   2082           KY       21   4467673.0
+
+[354 rows x 6 columns]

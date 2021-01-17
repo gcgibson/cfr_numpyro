@@ -1,0 +1,15 @@
+                     date locationtest  value abbreviation location  population
+location_name                                                                  
+Louisiana      2020-01-24           22      0           LA       22   4648794.0
+Louisiana      2020-01-25           22      0           LA       22   4648794.0
+Louisiana      2020-01-26           22      0           LA       22   4648794.0
+Louisiana      2020-01-27           22      0           LA       22   4648794.0
+Louisiana      2020-01-28           22      0           LA       22   4648794.0
+...                   ...          ...    ...          ...      ...         ...
+Louisiana      2021-01-07           22   4530           LA       22   4648794.0
+Louisiana      2021-01-08           22   3377           LA       22   4648794.0
+Louisiana      2021-01-09           22      0           LA       22   4648794.0
+Louisiana      2021-01-10           22   5398           LA       22   4648794.0
+Louisiana      2021-01-11           22   1405           LA       22   4648794.0
+
+[354 rows x 6 columns]

@@ -1,0 +1,15 @@
+                     date locationtest  value abbreviation location  population
+location_name                                                                  
+Virginia       2020-01-24           51      0           VA       51   8535519.0
+Virginia       2020-01-25           51      0           VA       51   8535519.0
+Virginia       2020-01-26           51      0           VA       51   8535519.0
+Virginia       2020-01-27           51      0           VA       51   8535519.0
+Virginia       2020-01-28           51      0           VA       51   8535519.0
+...                   ...          ...    ...          ...      ...         ...
+Virginia       2021-01-07           51   5379           VA       51   8535519.0
+Virginia       2021-01-08           51   5238           VA       51   8535519.0
+Virginia       2021-01-09           51   5798           VA       51   8535519.0
+Virginia       2021-01-10           51   5141           VA       51   8535519.0
+Virginia       2021-01-11           51   4530           VA       51   8535519.0
+
+[354 rows x 6 columns]

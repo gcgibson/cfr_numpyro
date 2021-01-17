@@ -1,0 +1,15 @@
+                     date locationtest  value abbreviation location  population
+location_name                                                                  
+California     2020-01-24           06      0           CA       06  39512223.0
+California     2020-01-25           06      0           CA       06  39512223.0
+California     2020-01-26           06      2           CA       06  39512223.0
+California     2020-01-27           06      0           CA       06  39512223.0
+California     2020-01-28           06      0           CA       06  39512223.0
+...                   ...          ...    ...          ...      ...         ...
+California     2021-01-07           06  45498           CA       06  39512223.0
+California     2021-01-08           06  43474           CA       06  39512223.0
+California     2021-01-09           06  55433           CA       06  39512223.0
+California     2021-01-10           06  42600           CA       06  39512223.0
+California     2021-01-11           06  35877           CA       06  39512223.0
+
+[354 rows x 6 columns]

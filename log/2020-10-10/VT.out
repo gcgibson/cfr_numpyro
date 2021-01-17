@@ -1,0 +1,15 @@
+                     date locationtest  value abbreviation location  population
+location_name                                                                  
+Vermont        2020-01-24           50      0           VT       50    623989.0
+Vermont        2020-01-25           50      0           VT       50    623989.0
+Vermont        2020-01-26           50      0           VT       50    623989.0
+Vermont        2020-01-27           50      0           VT       50    623989.0
+Vermont        2020-01-28           50      0           VT       50    623989.0
+...                   ...          ...    ...          ...      ...         ...
+Vermont        2021-01-07           50    245           VT       50    623989.0
+Vermont        2021-01-08           50    216           VT       50    623989.0
+Vermont        2021-01-09           50    171           VT       50    623989.0
+Vermont        2021-01-10           50    177           VT       50    623989.0
+Vermont        2021-01-11           50    111           VT       50    623989.0
+
+[354 rows x 6 columns]

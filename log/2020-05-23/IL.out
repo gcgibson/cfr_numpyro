@@ -1,0 +1,15 @@
+                     date locationtest  value abbreviation location  population
+location_name                                                                  
+Illinois       2020-01-24           17      1           IL       17  12671821.0
+Illinois       2020-01-25           17      0           IL       17  12671821.0
+Illinois       2020-01-26           17      0           IL       17  12671821.0
+Illinois       2020-01-27           17      0           IL       17  12671821.0
+Illinois       2020-01-28           17      0           IL       17  12671821.0
+...                   ...          ...    ...          ...      ...         ...
+Illinois       2021-01-07           17   8757           IL       17  12671821.0
+Illinois       2021-01-08           17   9277           IL       17  12671821.0
+Illinois       2021-01-09           17   6717           IL       17  12671821.0
+Illinois       2021-01-10           17   4711           IL       17  12671821.0
+Illinois       2021-01-11           17   4776           IL       17  12671821.0
+
+[354 rows x 6 columns]

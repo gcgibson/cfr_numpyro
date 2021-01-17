@@ -1,0 +1,15 @@
+                     date locationtest  value abbreviation location  population
+location_name                                                                  
+Pennsylvania   2020-01-24           42      0           PA       42  12801989.0
+Pennsylvania   2020-01-25           42      0           PA       42  12801989.0
+Pennsylvania   2020-01-26           42      0           PA       42  12801989.0
+Pennsylvania   2020-01-27           42      0           PA       42  12801989.0
+Pennsylvania   2020-01-28           42      0           PA       42  12801989.0
+...                   ...          ...    ...          ...      ...         ...
+Pennsylvania   2021-01-07           42   9607           PA       42  12801989.0
+Pennsylvania   2021-01-08           42  10216           PA       42  12801989.0
+Pennsylvania   2021-01-09           42   9056           PA       42  12801989.0
+Pennsylvania   2021-01-10           42   6588           PA       42  12801989.0
+Pennsylvania   2021-01-11           42   6908           PA       42  12801989.0
+
+[354 rows x 6 columns]

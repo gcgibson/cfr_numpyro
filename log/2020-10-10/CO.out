@@ -1,0 +1,15 @@
+                     date locationtest  value abbreviation location  population
+location_name                                                                  
+Colorado       2020-01-24           08      0           CO       08   5758736.0
+Colorado       2020-01-25           08      0           CO       08   5758736.0
+Colorado       2020-01-26           08      0           CO       08   5758736.0
+Colorado       2020-01-27           08      0           CO       08   5758736.0
+Colorado       2020-01-28           08      0           CO       08   5758736.0
+...                   ...          ...    ...          ...      ...         ...
+Colorado       2021-01-07           08   3473           CO       08   5758736.0
+Colorado       2021-01-08           08   3187           CO       08   5758736.0
+Colorado       2021-01-09           08   2837           CO       08   5758736.0
+Colorado       2021-01-10           08   2201           CO       08   5758736.0
+Colorado       2021-01-11           08   1677           CO       08   5758736.0
+
+[354 rows x 6 columns]

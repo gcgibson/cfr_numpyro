@@ -1,0 +1,15 @@
+                     date locationtest  value abbreviation location  population
+location_name                                                                  
+New Jersey     2020-01-24           34      0           NJ       34   8882190.0
+New Jersey     2020-01-25           34      0           NJ       34   8882190.0
+New Jersey     2020-01-26           34      0           NJ       34   8882190.0
+New Jersey     2020-01-27           34      0           NJ       34   8882190.0
+New Jersey     2020-01-28           34      0           NJ       34   8882190.0
+...                   ...          ...    ...          ...      ...         ...
+New Jersey     2021-01-07           34   6704           NJ       34   8882190.0
+New Jersey     2021-01-08           34   5931           NJ       34   8882190.0
+New Jersey     2021-01-09           34   6558           NJ       34   8882190.0
+New Jersey     2021-01-10           34   5578           NJ       34   8882190.0
+New Jersey     2021-01-11           34   5334           NJ       34   8882190.0
+
+[354 rows x 6 columns]

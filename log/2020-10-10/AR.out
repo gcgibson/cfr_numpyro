@@ -1,0 +1,15 @@
+                     date locationtest  value abbreviation location  population
+location_name                                                                  
+Arkansas       2020-01-24           05      0           AR       05   3017804.0
+Arkansas       2020-01-25           05      0           AR       05   3017804.0
+Arkansas       2020-01-26           05      0           AR       05   3017804.0
+Arkansas       2020-01-27           05      0           AR       05   3017804.0
+Arkansas       2020-01-28           05      0           AR       05   3017804.0
+...                   ...          ...    ...          ...      ...         ...
+Arkansas       2021-01-07           05   3323           AR       05   3017804.0
+Arkansas       2021-01-08           05   2944           AR       05   3017804.0
+Arkansas       2021-01-09           05   2886           AR       05   3017804.0
+Arkansas       2021-01-10           05   3330           AR       05   3017804.0
+Arkansas       2021-01-11           05   1268           AR       05   3017804.0
+
+[354 rows x 6 columns]

@@ -1,0 +1,15 @@
+                     date locationtest  value abbreviation location  population
+location_name                                                                  
+Missouri       2020-01-24           29      0           MO       29   6626371.0
+Missouri       2020-01-25           29      0           MO       29   6626371.0
+Missouri       2020-01-26           29      0           MO       29   6626371.0
+Missouri       2020-01-27           29      0           MO       29   6626371.0
+Missouri       2020-01-28           29      0           MO       29   6626371.0
+...                   ...          ...    ...          ...      ...         ...
+Missouri       2021-01-07           29   4740           MO       29   6626371.0
+Missouri       2021-01-08           29   4098           MO       29   6626371.0
+Missouri       2021-01-09           29   3937           MO       29   6626371.0
+Missouri       2021-01-10           29   2768           MO       29   6626371.0
+Missouri       2021-01-11           29   1750           MO       29   6626371.0
+
+[354 rows x 6 columns]

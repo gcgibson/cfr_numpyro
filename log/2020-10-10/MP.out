@@ -1,0 +1,15 @@
+                                date locationtest  ...  location population
+location_name                                      ...                     
+Northern Mariana Islands  2020-01-24           69  ...        69    55144.0
+Northern Mariana Islands  2020-01-25           69  ...        69    55144.0
+Northern Mariana Islands  2020-01-26           69  ...        69    55144.0
+Northern Mariana Islands  2020-01-27           69  ...        69    55144.0
+Northern Mariana Islands  2020-01-28           69  ...        69    55144.0
+...                              ...          ...  ...       ...        ...
+Northern Mariana Islands  2021-01-07           69  ...        69    55144.0
+Northern Mariana Islands  2021-01-08           69  ...        69    55144.0
+Northern Mariana Islands  2021-01-09           69  ...        69    55144.0
+Northern Mariana Islands  2021-01-10           69  ...        69    55144.0
+Northern Mariana Islands  2021-01-11           69  ...        69    55144.0
+
+[354 rows x 6 columns]

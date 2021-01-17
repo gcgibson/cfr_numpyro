@@ -1,0 +1,15 @@
+                     date locationtest  value abbreviation location  population
+location_name                                                                  
+Rhode Island   2020-01-24           44      0           RI       44   1059361.0
+Rhode Island   2020-01-25           44      0           RI       44   1059361.0
+Rhode Island   2020-01-26           44      0           RI       44   1059361.0
+Rhode Island   2020-01-27           44      0           RI       44   1059361.0
+Rhode Island   2020-01-28           44      0           RI       44   1059361.0
+...                   ...          ...    ...          ...      ...         ...
+Rhode Island   2021-01-07           44   1128           RI       44   1059361.0
+Rhode Island   2021-01-08           44   1023           RI       44   1059361.0
+Rhode Island   2021-01-09           44      0           RI       44   1059361.0
+Rhode Island   2021-01-10           44      0           RI       44   1059361.0
+Rhode Island   2021-01-11           44   2993           RI       44   1059361.0
+
+[354 rows x 6 columns]

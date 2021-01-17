@@ -1,0 +1,15 @@
+                     date locationtest  value abbreviation location  population
+location_name                                                                  
+Michigan       2020-01-24           26      0           MI       26   9986857.0
+Michigan       2020-01-25           26      0           MI       26   9986857.0
+Michigan       2020-01-26           26      0           MI       26   9986857.0
+Michigan       2020-01-27           26      0           MI       26   9986857.0
+Michigan       2020-01-28           26      0           MI       26   9986857.0
+...                   ...          ...    ...          ...      ...         ...
+Michigan       2021-01-07           26   4249           MI       26   9986857.0
+Michigan       2021-01-08           26   3908           MI       26   9986857.0
+Michigan       2021-01-09           26   2898           MI       26   9986857.0
+Michigan       2021-01-10           26      0           MI       26   9986857.0
+Michigan       2021-01-11           26   5129           MI       26   9986857.0
+
+[354 rows x 6 columns]

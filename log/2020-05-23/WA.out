@@ -1,0 +1,15 @@
+                     date locationtest  value abbreviation location  population
+location_name                                                                  
+Washington     2020-01-24           53      0           WA       53   7614893.0
+Washington     2020-01-25           53      0           WA       53   7614893.0
+Washington     2020-01-26           53      0           WA       53   7614893.0
+Washington     2020-01-27           53      0           WA       53   7614893.0
+Washington     2020-01-28           53      0           WA       53   7614893.0
+...                   ...          ...    ...          ...      ...         ...
+Washington     2021-01-07           53   3260           WA       53   7614893.0
+Washington     2021-01-08           53   4595           WA       53   7614893.0
+Washington     2021-01-09           53   2988           WA       53   7614893.0
+Washington     2021-01-10           53      0           WA       53   7614893.0
+Washington     2021-01-11           53   5091           WA       53   7614893.0
+
+[354 rows x 6 columns]

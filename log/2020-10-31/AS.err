@@ -1,0 +1,29 @@
+sys:1: DtypeWarning: Columns (1) have mixed types.Specify dtype option on import or set low_memory=False.
+run_place.py:121: RuntimeWarning: invalid value encountered in true_divide
+  df_train.Y = df_train.Y.values/case_normalizer
+run_place.py:124: RuntimeWarning: invalid value encountered in true_divide
+  df_train.D = df_train.D.values/death_normalizer
+Traceback (most recent call last):
+  File "run_place.py", line 166, in <module>
+    mcmc.run(rng_key_,B_local=basis_train,mask=mask)
+  File "/home/gcgibson/numpyro/numpyro/infer/mcmc.py", line 1214, in run
+    args, kwargs, collect_fields)
+  File "/home/gcgibson/numpyro/numpyro/infer/mcmc.py", line 1087, in _single_chain_mcmc
+    model_args=args, model_kwargs=kwargs)
+  File "/home/gcgibson/numpyro/numpyro/infer/mcmc.py", line 526, in init
+    raise RuntimeError("Cannot find valid initial parameters. "
+RuntimeError: Cannot find valid initial parameters. Please check your model again.
+WARNING:rpy2.rinterface_lib.callbacks:R[write to console]: Warning messages:
+
+WARNING:rpy2.rinterface_lib.callbacks:R[write to console]: 1: 
+WARNING:rpy2.rinterface_lib.callbacks:R[write to console]: In (function (package, help, pos = 2, lib.loc = NULL, character.only = FALSE,  :
+WARNING:rpy2.rinterface_lib.callbacks:R[write to console]: 
+ 
+WARNING:rpy2.rinterface_lib.callbacks:R[write to console]:  library ‘/usr/share/R/library’ contains no packages
+
+WARNING:rpy2.rinterface_lib.callbacks:R[write to console]: 2: 
+WARNING:rpy2.rinterface_lib.callbacks:R[write to console]: In (function (package, help, pos = 2, lib.loc = NULL, character.only = FALSE,  :
+WARNING:rpy2.rinterface_lib.callbacks:R[write to console]: 
+ 
+WARNING:rpy2.rinterface_lib.callbacks:R[write to console]:  library ‘/usr/share/R/library’ contains no packages
+

@@ -1,0 +1,15 @@
+                     date locationtest  value abbreviation location  population
+location_name                                                                  
+North Dakota   2020-01-24           38      0           ND       38    762062.0
+North Dakota   2020-01-25           38      0           ND       38    762062.0
+North Dakota   2020-01-26           38      0           ND       38    762062.0
+North Dakota   2020-01-27           38      0           ND       38    762062.0
+North Dakota   2020-01-28           38      0           ND       38    762062.0
+...                   ...          ...    ...          ...      ...         ...
+North Dakota   2021-01-07           38    324           ND       38    762062.0
+North Dakota   2021-01-08           38    282           ND       38    762062.0
+North Dakota   2021-01-09           38    120           ND       38    762062.0
+North Dakota   2021-01-10           38    158           ND       38    762062.0
+North Dakota   2021-01-11           38    114           ND       38    762062.0
+
+[354 rows x 6 columns]

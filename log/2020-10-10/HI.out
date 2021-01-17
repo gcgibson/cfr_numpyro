@@ -1,0 +1,15 @@
+                     date locationtest  value abbreviation location  population
+location_name                                                                  
+Hawaii         2020-01-24           15      0           HI       15   1415872.0
+Hawaii         2020-01-25           15      0           HI       15   1415872.0
+Hawaii         2020-01-26           15      0           HI       15   1415872.0
+Hawaii         2020-01-27           15      0           HI       15   1415872.0
+Hawaii         2020-01-28           15      0           HI       15   1415872.0
+...                   ...          ...    ...          ...      ...         ...
+Hawaii         2021-01-07           15    287           HI       15   1415872.0
+Hawaii         2021-01-08           15    283           HI       15   1415872.0
+Hawaii         2021-01-09           15    228           HI       15   1415872.0
+Hawaii         2021-01-10           15    178           HI       15   1415872.0
+Hawaii         2021-01-11           15    162           HI       15   1415872.0
+
+[354 rows x 6 columns]
